@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/kobea/INFO-I501/Projects/week4/h501-gutenberg\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
